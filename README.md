@@ -1,5 +1,9 @@
 # Point-Of-Sale Backend
 
+> ⚠️ **ARCHIVED REPOSITORY**  
+> This repository is archived and is no longer actively maintained.  
+> Active development has been migrated to [**clinic-point-of-sale**](https://github.com/PrimeSlade/clinic-point-of-sale).
+
 A complete backend system for managing medical clinics and pharmacies with attribute-based access control (ABAC), inventory management, and financial tracking.
 
 ## Live Demo
